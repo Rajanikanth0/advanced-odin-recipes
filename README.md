@@ -4,7 +4,7 @@ We are going to create a web-page based on the knowledge of basic-odin-recipes a
 
 # Content Info
 
-As the content of the recipes, I made a dicision of adding dst's cooking recipes to have some fun along the jurney.
+As the content of the recipes, I made a decision of adding dst's cooking recipes to have some fun along the journey.
 
 # Knowledge Check
 
